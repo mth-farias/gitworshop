@@ -1,4 +1,4 @@
-# WeEagles
+# WeEagles2
 Team WeEagles Astro Pi Competition 2021/2022
 Team members: 
  Wiktoria Dusza,
